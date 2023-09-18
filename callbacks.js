@@ -6,6 +6,7 @@ nomes.forEach(function (nome) {
 });
 /////////////////////////////////////////////////////////////////////////////////
 nomes.forEach((nome) => {
+  // Essa é a ARROW FUNCTION será a mais usada.
   //Segunda maneira da função Callback.
   console.log(nome);
 });
